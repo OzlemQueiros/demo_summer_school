@@ -1,5 +1,7 @@
 ---
-title: "Untitled"
+title: "Homework 1"
+author: "Kieran Schubert & Ozlem Queiros"
+date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: html_document
 ---
 
