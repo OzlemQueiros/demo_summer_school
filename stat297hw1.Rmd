@@ -45,3 +45,18 @@ Ozlem is a student in the MSc. Business Analytics at the University of Geneva an
 My favorite hobby is Zumba.
 
 ![Ozlem Profile Picture](Ozlem_Profile2.jpeg)
+
+
+My favorite quote:
+
+> Life is good!
+
+Courses Followed this year:
+
+Courses followed | Time
+---|---
+Prescriptive Analytics | 10:00 - 12:00
+Machine Learning | 10:00 - 12:00
+Data Mining | 08:00 - 12:00
+
+
