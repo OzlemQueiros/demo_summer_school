@@ -3,6 +3,7 @@ title: "Homework 1"
 author: "Kieran Schubert & Ozlem Queiros"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
 output: html_document
+bibliography: quotes.bib
 ---
 
 ```{r setup, include=FALSE}
@@ -27,7 +28,7 @@ My favorite hobby is cycling and I used to study Chemistry.
 
 My favorite quote:
 
-> Food is great!
+> Food is great! @kieran_quote
 
 Courses Followed this year:
 
@@ -45,3 +46,8 @@ Ozlem is a student in the MSc. Business Analytics at the University of Geneva an
 My favorite hobby is Zumba.
 
 ![Ozlem Profile Picture](Ozlem_Profile2.jpeg)
+
+
+# R Markdown Syntax
+
+# References
