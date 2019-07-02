@@ -31,9 +31,11 @@ My favorite quote:
 
 Courses Followed this year:
 
-First Semester | Second Semester
+Courses followed | Time
 ---|---
-Time Series | Machine Learning
+Time Series | 08:00 - 10:00
+Machine Learning | 10:00 - 12:00
+Data Mining | 08:00 - 12:00
 
 ![Kieran Profile Picture](kieran_profile.jpg){width=250px, height=200px}
 
