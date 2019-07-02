@@ -9,6 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Introduction
+# Introduction
 
 This homework is the first assignment from the 2019 UNIGE Summer School Course 'R-Programming for Data Science'.
+
+# Team Members
+
+## Kieran Schubert
+
+## Ozlem Queiros
+
+
