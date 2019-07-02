@@ -64,7 +64,7 @@ Web Data And Analytics | 08:00 - 12:00
 
 # R Markdown Syntax
 
-```{r cache=T}
+```{r cache=T, fig.cap=T}
 x <- rnorm(100)
 mean(x)
 median(x)
