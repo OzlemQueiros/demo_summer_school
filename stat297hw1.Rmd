@@ -2,7 +2,10 @@
 title: "Homework 1"
 author: "Kieran Schubert & Ozlem Queiros"
 date: '`r format(Sys.time(), "%d %B, %Y")`'
-output: html_document
+output: 
+  html_document:
+    theme: cerulean
+    fig_caption: yes
 bibliography: quotes.bib
 ---
 
@@ -66,6 +69,7 @@ x <- rnorm(100)
 mean(x)
 median(x)
 var(x)
+hist(x) []
 ```
 
 # References
