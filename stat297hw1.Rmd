@@ -57,6 +57,6 @@ Courses followed | Time
 ---|---
 Prescriptive Analytics | 10:00 - 12:00
 Machine Learning | 10:00 - 12:00
-Data Mining | 08:00 - 12:00
+Web Data And Analytics | 08:00 - 12:00
 
 
