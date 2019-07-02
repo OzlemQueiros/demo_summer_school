@@ -21,7 +21,19 @@ This homework is the first assignment from the 2019 UNIGE Summer School Course '
 ## Kieran Schubert
 
 Kieran is a student in the MSc. Statistics at the University of Geneva and currently
-enjoying this summer school course!
+enjoying this summer school course! 
+
+My favorite hobby is cycling and I used to study Chemistry.
+
+My favorite quote:
+
+> Food is great!
+
+Courses Followed this year:
+
+First Semester | Second Semester
+---|---
+Time Series | Machine Learning
 
 ![Kieran Profile Picture](kieran_profile.jpg){width=250px, height=200px}
 
