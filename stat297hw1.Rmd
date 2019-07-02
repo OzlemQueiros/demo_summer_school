@@ -23,7 +23,7 @@ This homework is the first assignment from the 2019 UNIGE Summer School Course '
 Kieran is a student in the MSc. Statistics at the University of Geneva and currently
 enjoying this summer school course!
 
-![Kieran Profile Picture](kieran_profile.jpg)
+![Kieran Profile Picture](kieran_profile.jpg){width=250px, height=200px}
 
 ## Ozlem Queiros
 
