@@ -47,7 +47,14 @@ My favorite hobby is Zumba.
 
 ![Ozlem Profile Picture](Ozlem_Profile2.jpeg)
 
+My favorite quote:
 
-# R Markdown Syntax
+> Life is good!
 
-# References
+Courses Followed this year:
+
+Courses followed | Time
+---|---
+Prescriptive Analytics | 10:00 - 12:00
+Machine Learning | 10:00 - 12:00
+Web Data And Analytics | 08:00 - 12:00
