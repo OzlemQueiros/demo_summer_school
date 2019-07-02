@@ -61,4 +61,9 @@ Web Data And Analytics | 08:00 - 12:00
 
 # R Markdown Syntax
 
+```{r cache=T}
+x <- rnorm(10)
+mean(x)
+```
+
 # References
