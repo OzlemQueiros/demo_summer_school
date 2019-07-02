@@ -13,6 +13,9 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This homework is the first assignment from the 2019 UNIGE Summer School Course 'R-Programming for Data Science'.
 
+# Video Presentation
+<iframe width='400' height='300' src='https://www.youtube.com/embed/WpE_xMRiCLE' frameborder='0' allowfullscreen></iframe>
+
 # Team Members
 
 ## Kieran Schubert
