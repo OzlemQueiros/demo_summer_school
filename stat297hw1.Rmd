@@ -19,6 +19,10 @@ This homework is the first assignment from the 2019 UNIGE Summer School Course '
 # Team Members
 
 ## Kieran Schubert
+
+Kieran is a student in the MSc. Statistics at the University of Geneva and currently
+enjoying this summer school course!
+
 ![Kieran Profile Picture](kieran_profile.jpg)
 
 ## Ozlem Queiros
