@@ -69,7 +69,7 @@ x <- rnorm(100)
 mean(x)
 median(x)
 var(x)
-hist(x) []
+hist(x)
 ```
 
 # References
