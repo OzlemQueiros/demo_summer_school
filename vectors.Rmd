@@ -1,0 +1,133 @@
+---
+title: "Data Structures"
+output: html_document
+---
+
+#vectors
+
+```{r}
+(grand_slam_win <- c(9, 15, 5, 12, 18))
+```
+
+
+
+
+```{r}
+(grand_slam_win <- c(9, c(15, 5), c(12, 18)))
+```
+
+
+
+
+```{r}
+a= c(1,2,3)
+a2=c(1L,2L,3L)
+b=c(4,2,1)
+(d=c(a,b,a))
+(d2=c("a","b","a"))
+
+```
+
+
+```{r}
+typeof(a)
+typeof(a2)
+typeof(d2)
+
+```
+
+
+```{r}
+c("A",2)
+(g=c(F,2,3L,"ws"))
+typeof(g)
+```
+
+```{r}
+(a= c(1,20,3,40,5,60))
+a[2]
+a[c(2,1,4)]
+a[-3]
+a[-c(1,2)]
+a[c(1,2,4,5)][-2]
+
+```
+
+
+
+```{r}
+(a= c(1,20,3,40,5,60))
+a[c(F,F,F,T,T,F)]
+a[a>10]
+
+```
+
+
+```{r}
+(grand_slam_win <- c("Andy Murray" = 9, "Rafael Nadal" = 15, 
+                   "Stan Wawrinka" = 5, "Novak Djokovic" = 12, 
+                   "Roger Federer" = 18))
+
+grand_slam_win["Novak Djokovic"]
+grand_slam_win[4]
+
+
+
+```
+
+
+
+```{r}
+(grand_slam_win <- c("Andy Murray" = 9, "Rafael Nadal" = 15, 
+                   "Stan Wawrinka" = 5, "Novak Djokovic" = 12, 
+                   "Roger Federer" = 18))
+
+length(grand_slam_win)
+sum(grand_slam_win)
+mean(grand_slam_win)
+order(grand_slam_win)
+sort(grand_slam_win)
+grand_slam_win[order(grand_slam_win)]
+sort(grand_slam_win,decreasing=TRUE)
+
+```
+
+
+
+```{r}
+1:6
+6:1
+-6:1
+
+```
+
+```{r}
+(today <- Sys.Date())
+(three_months_ago <- seq(today, length = 2, by = "-3 months")[2])
+library(quantmod)
+getSymbols("AAPL", from = three_months_ago, to = today)
+Xt = as.numeric(na.omit(ClCl(AAPL)))
+mu <- mean(Xt)
+(k <- mean((Xt - mu)^4)/(mean((Xt - mu)^2))^2 - 3)
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
